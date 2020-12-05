@@ -76,7 +76,7 @@ export default class extends React.Component {
           <Pagination />
           <div>
             See{' '}
-            <a href="https://github.com/algolia/react-instantsearch/tree/master/examples/next">
+            <a href="https://github.com/bintang007/nextjs-algolia-test-SSR">
               source code
             </a>{' '}
             on github
